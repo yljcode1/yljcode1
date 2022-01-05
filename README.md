@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Yao's%20HomePage;欢迎来到小姚的主页;欢迎徐翠云来看看!&center=true&size=27&color=black">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Yao's%20HomePage;欢迎来到小姚的主页;欢迎徐翠云来看看!&center=true&size=27&color=blue">
   </a>
 </h1>
 
@@ -12,15 +12,19 @@
 - 🤔 好运连连
 - 📫 2826455837@qq.com
 - ⚡ 加油
-    
-
-</div>
-
-
-<div align="center">
+ 
+ <div align="center">
      <img src="https://raw.githubusercontent.com/yljcode1/yljcode1/master/assets/github-contribution-grid-snake.svg" />
 </div>
+<!-- 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yljcode1" />
+</div> -->
 
+<!-- <div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=yljcode1&theme=xcode" />
+</div>
+ -->
 <!--
 **yljcode1/yljcode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
