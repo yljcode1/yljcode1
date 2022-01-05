@@ -1,7 +1,9 @@
 ### Hi there 👋
-![](https://raw.githubusercontent.com/yljcode1/yljcode1/main/assets/github-contribution-grid-snake.svg)              
+          
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yljcode1&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://raw.githubusercontent.com/yljcode1/yljcode1/main/assets/github-contribution-grid-snake.svg)
 <!--
 **yljcode1/yljcode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
