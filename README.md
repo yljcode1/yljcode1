@@ -1,8 +1,6 @@
-<h1 align="center"> Welcome to Yao's HomePage 👋 </h1>
-
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to Yao's HomePage;&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Yao's%20HomePage;欢迎来到小姚的主页;欢迎徐翠云来看看!&center=true&size=27&color=black">
   </a>
 </h1>
 
