@@ -13,7 +13,7 @@
 </div>
 
 ### My GitHub Contributions
-<dev align="right>
+<div align="right>
      <img src="https://github.com/yljcode1/yljcode1/tree/master/assets/github-contribution-grid-snake.svg"/>
 </div>
 
