@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到小姚的github!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to Yao's HomePage!;欢迎徐翠云来看我的网址!&center=true&size=27">
   </a>
 </h1>
 
