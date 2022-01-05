@@ -9,8 +9,10 @@
 - ⚡ 加油
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yljcode1&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+### My GitHub Contributions
 
-![hello](https://raw.githubusercontent.com/yljcode1/yljcode1/master/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/yljcode1/yljcode1/master/assets/github-contribution-grid-snake.svg)
 
 
 <!--
