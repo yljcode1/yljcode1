@@ -2,11 +2,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yljcode1&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true&layout=compact" />
 </a>
-<a href="https://raw.githubusercontent.com/yljcode1/yljcode1/master/assets/github-contribution-grid-snake.svg">
-  <img align="center" src="https://raw.githubusercontent.com/yljcode1/yljcode1/master/assets/github-contribution-grid-snake.svg" />
-</a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yljcode1&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/yljcode1/yljcode1/master/assets/github-contribution-grid-snake.svg)
 <!--
