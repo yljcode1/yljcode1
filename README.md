@@ -13,9 +13,9 @@
 </div>
 
 ### My GitHub Contributions
-
-     <img src="https://github.com/yljcode1/yljcode1/tree/master/assets/github-contribution-grid-snake.svg"/>
-
+<div align="center">
+     <img src="https://github.com/yljcode1/yljcode1/tree/master/assets/github-contribution-grid-snake.svg" />
+</div>
 
 <!--
 **yljcode1/yljcode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
