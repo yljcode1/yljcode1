@@ -1,20 +1,18 @@
-### Welcome to Yao's HomePage 👋
+<h1 align="center"> Welcome to Yao's HomePage 👋 </h1>
 
-<div>
-    <div align = "left"><p>- 🔭 工作ing </br>
-- 🌱 学习ing</br>
-- 👯 单身</br>
-- 🤔 好运连连</br>
-- 💬 no idea</br>
-- 📫 2826455837@qq.com</br>
-- 😄 nb</br>
-- ⚡ 加油</br>
-    </p></div>
-<div align="right">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yljcode1&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+ <img  align="right" src="https://github-readme-stats.vercel.app/api?username=yljcode1&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
+- 🔭 工作ing
+- 🌱 学习ing   
+- 👯 单身
+- 🤔 好运连连
+- 📫 2826455837@qq.com
+- ⚡ 加油
+    
+
 </div>
-</div>
-### My GitHub Contributions
+
+
 <div align="center">
      <img src="https://raw.githubusercontent.com/yljcode1/yljcode1/master/assets/github-contribution-grid-snake.svg" />
 </div>
