@@ -18,7 +18,7 @@
 
 ### My GitHub Contributions
 <div align="center">
-     <img src="https://github.com/yljcode1/yljcode1/tree/master/assets/github-contribution-grid-snake.gif" />
+     <img src="https://raw.githubusercontent.com/yljcode1/yljcode1/master/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <!--
