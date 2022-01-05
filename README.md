@@ -12,7 +12,7 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yljcode1&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 <dev align = "right>
-     <img src="https://raw.githubusercontent.com/yljcode1/yljcode1/master/assets/github-contribution-grid-snake.svg"/>
+     <img src="https://github.com/yljcode1/yljcode1/tree/master/assets/github-contribution-grid-snake.svg"/>
 </div>
 ### My GitHub Contributions
 
