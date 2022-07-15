@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Yao's%20HomePage;艺艺小祖宗爱你哦!;&center=true&size=27&color=blue">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Yao's%20HomePage;欢迎来到小姚的github!;&center=true&size=27&color=blue">
   </a>
 </h1>
 
